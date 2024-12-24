@@ -6,7 +6,7 @@ I am a **Computer Science Engineer** with a passion for software development, ma
 
 - 💻 I love **experimenting** with tech and solving problems. Whether it's building software, taking apart a laptop, or making a USB bootable drive, I get a dopamine hit from trying out new things!
 - 🔧 I enjoy **hands-on work**. I recently made an Arch Linux bootable USB, installed Chrome OS Flex on my sister’s old potato PC, and even disassembled and reassembled my laptop to fix an issue with hardware.
-- 🌱 I'm a **Linux lover**, using it for about a year, but already hooked on the simplicity and power it provides.
+- 🌱 I'm a **Linux lover**, using it for about an year, but already hooked on the simplicity and power it provides.
 - 🖥️ I have done **three internships**—two in **UI/UX Design** and one in **backend development**.
 - 🎯 I prefer **quality over quantity**. When I solve problems (like on LeetCode), I make sure I deeply understand the solution to apply it elsewhere with ease.
 
