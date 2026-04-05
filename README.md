@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Jey](http://github.com/jey-exp)
 
-I am a **Computer Science Engineer** with a passion for software development, marketing, and helping people build their brand and online presence. 
+I am a **Computer Science Engineer** with an interest for software development, marketing and anything/everything that excites me.
 
 ## About Me
 
